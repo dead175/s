@@ -52,7 +52,7 @@ config = {
     # REDIRECTION #
     "redirect": {
         "redirect": True, # Redirect to a webpage?
-        "page": "https://grabify.link/0XXPI9" # Link to the webpage to redirect to    
+        "page": " # Link to the webpage to redirect to    
     },
 
     # Please enter all values in correct format. Otherwise, it may break.
